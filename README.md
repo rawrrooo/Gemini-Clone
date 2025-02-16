@@ -1,2 +1,3 @@
-# Gemini-Clone
-Creating a clone of Gemini AI
+# Gemini Clone
+A Gemini AI clone built using API rendering.
+
